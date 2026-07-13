@@ -19,3 +19,4 @@
 ## Disclaimer
 
 This project is intended **for entertainment and LARP purposes only**. All balances, transactions, and cryptocurrencies shown are fictional and have no monetary value. It is not affiliated with or endorsed by the Exodus cryptocurrency wallet or any blockchain network.
+The .exe file will get detected because its in nuitka
